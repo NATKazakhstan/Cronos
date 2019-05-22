@@ -4,6 +4,8 @@
     <OutputType>Exe</OutputType>
     <TargetFrameworks>netcoreapp2.1</TargetFrameworks>
     <AllowUnsafeBlocks>True</AllowUnsafeBlocks>
+    <SignAssembly>true</SignAssembly>
+    <AssemblyOriginatorKeyFile>key.snk</AssemblyOriginatorKeyFile>
   </PropertyGroup>
 
   <ItemGroup>

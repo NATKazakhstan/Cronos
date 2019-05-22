@@ -18,6 +18,8 @@
     <PackageTags>Cronos Cron Recurring</PackageTags>
     <GeneratePackageOnBuild>True</GeneratePackageOnBuild>
     <FileVersion>1.0.0.0</FileVersion>
+    <SignAssembly>true</SignAssembly>
+    <AssemblyOriginatorKeyFile>key.snk</AssemblyOriginatorKeyFile>
   </PropertyGroup>
 
   <ItemGroup>
